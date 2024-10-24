@@ -1,5 +1,10 @@
 # Welcome to your Expo app 👋
 
+
+
+Uploading WhatsApp Video 2024-10-25 at 00.40.41_624d0030.mp4…
+
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
